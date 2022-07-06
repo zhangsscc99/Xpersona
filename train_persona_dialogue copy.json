@@ -1,0 +1,572 @@
+[
+    {
+        "persona": "i'm a nurse.",
+        "b_sentence": "hey there ! i'm just taking a break from baking . whats up ?",
+        "label": "true"
+    },
+    {
+        "persona": "i surf often.",
+        "b_sentence": "how romantic ! just some cupcakes for the surf a thon . gotta feed my fellow surfers",
+        "label": "true"
+    },
+    {
+        "persona": "i was an army brat.",
+        "b_sentence": "i get it . . . i grew up an army brat and my family is so disapproving of me too .",
+        "label": "true"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "oh i love the quiet . nothing better than quiet alone time for me",
+        "label": "true"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "oh that sounds amazing . i love piano ! i am a waitress",
+        "label": "true"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "do you have any hobbies",
+        "label": "true"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "i feel you i manage a grocery store and like to cycling and reading",
+        "label": "true"
+    },
+    {
+        "persona": "i m the general manager of the local grocery store.",
+        "b_sentence": "i feel you i manage a grocery store and like to cycling and reading",
+        "label": "true"
+    },
+    {
+        "persona": "i spend the weekends travelling up to canada to relax and enjoy the view.",
+        "b_sentence": "canada i spend my weekends travelling back to enjoy the view",
+        "label": "true"
+    },
+    {
+        "persona": "i hope to someday compete professionally or atleast qualify for an event.",
+        "b_sentence": "i hope to complete professionally or qualify for a event . love rock man",
+        "label": "true"
+    },
+    {
+        "persona": "i m on my way to uc santa cruz where i was accepted.",
+        "b_sentence": "hi . are you in school ? i just got accepted to uc santa cruz !",
+        "label": "true"
+    },
+    {
+        "persona": "i will study computer science.",
+        "b_sentence": "that's cool . i will major in computer science . you use computers at work ?",
+        "label": "true"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "fish , yum . i just finished high school . how old are you ?",
+        "label": "true"
+    },
+    {
+        "persona": "i like playing games online.",
+        "b_sentence": "dogs are nice . when i play video games my dog sits at my feet .",
+        "label": "true"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "ok i hear you . me too . that is why i just graduated , and i'm 28 . haha .",
+        "label": "true"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "sports are ok but i love cooking shows and cooking",
+        "label": "true"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "sports are ok but i love cooking shows and cooking",
+        "label": "true"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "sports are ok but i love cooking shows and cooking",
+        "label": "true"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "but it is tough cause i am vegan and my friends are not",
+        "label": "true"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "i like to go skydiving or ride a rollercoaster",
+        "label": "true"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "i love dogs want a husky but cant have one yet",
+        "label": "true"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "i love dogs want a husky but cant have one yet",
+        "label": "true"
+    },
+    {
+        "persona": "i'm a nurse.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i am a great baker.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i surf often.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i was an army brat.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i'm a nurse.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i am a great baker.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i surf often.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i was an army brat.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i'm a nurse.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i am a great baker.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i surf often.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i was an army brat.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i'm a nurse.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i am a great baker.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i surf often.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i was an army brat.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "wow sounds so sweet ! so we both love the water huh ?",
+        "label": "false"
+    },
+    {
+        "persona": "i like to be alone.",
+        "b_sentence": "wow sounds so sweet ! so we both love the water huh ?",
+        "label": "false"
+    },
+    {
+        "persona": "i have a cat.",
+        "b_sentence": "wow sounds so sweet ! so we both love the water huh ?",
+        "label": "false"
+    },
+    {
+        "persona": "i wait tables at a cafe.",
+        "b_sentence": "wow sounds so sweet ! so we both love the water huh ?",
+        "label": "false"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "haha its sweet you compromised . have you been together long ?",
+        "label": "false"
+    },
+    {
+        "persona": "i like to be alone.",
+        "b_sentence": "haha its sweet you compromised . have you been together long ?",
+        "label": "false"
+    },
+    {
+        "persona": "i have a cat.",
+        "b_sentence": "haha its sweet you compromised . have you been together long ?",
+        "label": "false"
+    },
+    {
+        "persona": "i wait tables at a cafe.",
+        "b_sentence": "haha its sweet you compromised . have you been together long ?",
+        "label": "false"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "but would not that be just adorable ?",
+        "label": "false"
+    },
+    {
+        "persona": "i like to be alone.",
+        "b_sentence": "but would not that be just adorable ?",
+        "label": "false"
+    },
+    {
+        "persona": "i have a cat.",
+        "b_sentence": "but would not that be just adorable ?",
+        "label": "false"
+    },
+    {
+        "persona": "i wait tables at a cafe.",
+        "b_sentence": "but would not that be just adorable ?",
+        "label": "false"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "it should work out ! that is what i say before going to my hospital shifts",
+        "label": "false"
+    },
+    {
+        "persona": "i like to be alone.",
+        "b_sentence": "it should work out ! that is what i say before going to my hospital shifts",
+        "label": "false"
+    },
+    {
+        "persona": "i have a cat.",
+        "b_sentence": "it should work out ! that is what i say before going to my hospital shifts",
+        "label": "false"
+    },
+    {
+        "persona": "i wait tables at a cafe.",
+        "b_sentence": "it should work out ! that is what i say before going to my hospital shifts",
+        "label": "false"
+    },
+    {
+        "persona": "i love to sew.",
+        "b_sentence": "yeah ! its hard work being a nurse . good luck on your wedding and family !",
+        "label": "false"
+    },
+    {
+        "persona": "i like to be alone.",
+        "b_sentence": "yeah ! its hard work being a nurse . good luck on your wedding and family !",
+        "label": "false"
+    },
+    {
+        "persona": "i have a cat.",
+        "b_sentence": "yeah ! its hard work being a nurse . good luck on your wedding and family !",
+        "label": "false"
+    },
+    {
+        "persona": "i wait tables at a cafe.",
+        "b_sentence": "yeah ! its hard work being a nurse . good luck on your wedding and family !",
+        "label": "false"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i hope to someday compete professionally or atleast qualify for an event.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i spend the weekends travelling up to canada to relax and enjoy the view.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "i m the general manager of the local grocery store.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "my name is frank.",
+        "b_sentence": "i am doing great on this crisp fall night",
+        "label": "false"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i hope to someday compete professionally or atleast qualify for an event.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i spend the weekends travelling up to canada to relax and enjoy the view.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "i m the general manager of the local grocery store.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "my name is frank.",
+        "b_sentence": "that is a great idea i am single so i only make enough for one",
+        "label": "false"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i hope to someday compete professionally or atleast qualify for an event.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i spend the weekends travelling up to canada to relax and enjoy the view.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "i m the general manager of the local grocery store.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "my name is frank.",
+        "b_sentence": "wow first floor apt for me so no stairs",
+        "label": "false"
+    },
+    {
+        "persona": "my hobbies include reading and cycling.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i hope to someday compete professionally or atleast qualify for an event.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i spend the weekends travelling up to canada to relax and enjoy the view.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i m the general manager of the local grocery store.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "my name is frank.",
+        "b_sentence": "how many children do u have",
+        "label": "false"
+    },
+    {
+        "persona": "i will study computer science.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i m on my way to uc santa cruz where i was accepted.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i like playing games online.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i m a vegetarian.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i will study computer science.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i m on my way to uc santa cruz where i was accepted.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i like playing games online.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i m a vegetarian.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i will study computer science.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i m on my way to uc santa cruz where i was accepted.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i like playing games online.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i m a vegetarian.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i will study computer science.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i m on my way to uc santa cruz where i was accepted.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i just graduated from high school.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i like playing games online.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i m a vegetarian.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i am not a good swimmer at all.",
+        "b_sentence": "hello i'm frank and you are",
+        "label": "false"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i am not a good swimmer at all.",
+        "b_sentence": "its a very nice day out",
+        "label": "false"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i am not a good swimmer at all.",
+        "b_sentence": "how long have you lived there",
+        "label": "false"
+    },
+    {
+        "persona": "i am a vegan and i love hummus.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i love rollercoasters and sky diving.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i do like watching cooking shows.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    },
+    {
+        "persona": "i am not a good swimmer at all.",
+        "b_sentence": "that is awesome do you plan on moving anywhere else",
+        "label": "false"
+    }
+]

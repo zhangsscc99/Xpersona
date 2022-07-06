@@ -1,0 +1,8 @@
+def cos_similarity(x,y):
+  """ return cosine similarity between two lists """
+ 
+  numerator = sum(a*b for a,b in zip(x,y))
+  denominator = squared_sum(x)*squared_sum(y)
+  return round(numerator/float(denominator),3)
+
+cos_similarity("I am a good boy","I am a good girl")

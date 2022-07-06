@@ -1,0 +1,217 @@
+[
+    {
+        "persona": "hello what are doing today ?",
+        "b_sentence": "i am good , i just got off work and tired , i have two jobs .",
+        "label": ""
+    },
+    {
+        "persona": "i just got done watching a horror movie",
+        "b_sentence": "i rather read , i've read about 20 books this year .",
+        "label": ""
+    },
+    {
+        "persona": "wow ! i do love a good horror movie . loving this cooler weather",
+        "b_sentence": "but a good movie is always good .",
+        "label": ""
+    },
+    {
+        "persona": "yes ! my son is in junior high and i just started letting him watch them too",
+        "b_sentence": "i work in the movies as well .",
+        "label": ""
+    },
+    {
+        "persona": "neat ! ! i used to work in the human services field",
+        "b_sentence": "yes it is neat , i stunt double , it is so much fun and hard work .",
+        "label": ""
+    },
+    {
+        "persona": "yes i bet you can get hurt . my wife works and i stay at home",
+        "b_sentence": "nice , i only have one parent so now i help out my mom .",
+        "label": ""
+    },
+    {
+        "persona": "i bet she appreciates that very much .",
+        "b_sentence": "she raised me right , i am just like her .",
+        "label": ""
+    },
+    {
+        "persona": "my dad was always busy working at home depot",
+        "b_sentence": "now that i am older home depot is my toy r us .",
+        "label": ""
+    },
+    {
+        "persona": "hi ! how are you doing tonight ?",
+        "b_sentence": "i'm doing great . just relaxing with my two dogs .",
+        "label": ""
+    },
+    {
+        "persona": "great . in my spare time i do volunteer work .",
+        "b_sentence": "that's neat . what kind of volunteer work do you do ?",
+        "label": ""
+    },
+    {
+        "persona": "i work in a homeless shelter in my town .",
+        "b_sentence": "good for you . do you like vintage cars ? i've two older mustangs .",
+        "label": ""
+    },
+    {
+        "persona": "cool . not really into cars . my day job is wrestling .",
+        "b_sentence": "cars are my thing . vintage cars . i love working on them . wrestling ? do you enjoy it ?",
+        "label": ""
+    },
+    {
+        "persona": "yes , i love the crowds , getting to know people .",
+        "b_sentence": "i didn't think about the crowd aspect of wrestling . i do not like crowds .",
+        "label": ""
+    },
+    {
+        "persona": "understood . when i need to be alone , i work out a few times each week .",
+        "b_sentence": "i agree . working out is a great way to burn off steam . do you like country music ?",
+        "label": ""
+    },
+    {
+        "persona": "a little bit . i can get into taylor swift .",
+        "b_sentence": "lol . she's more pop now . her old stuff was country . i like classic country .",
+        "label": ""
+    },
+    {
+        "persona": "hello , how are you doing ?",
+        "b_sentence": "i love spending time with my family",
+        "label": ""
+    },
+    {
+        "persona": "that is great , me too ! i'm married and my husband and i've 2 children .",
+        "b_sentence": "so then have you ever been to disneyland ?",
+        "label": ""
+    },
+    {
+        "persona": "no , we recently purchased a new house , so we cannot afford it . have you ?",
+        "b_sentence": "yes i love mickey mouse such a cute little rat",
+        "label": ""
+    },
+    {
+        "persona": "i enjoy going to concerts , i see the rolling stones every year .",
+        "b_sentence": "man your lucky i am a baby delivery nurse and the pay sucks",
+        "label": ""
+    },
+    {
+        "persona": "maybe you should consider going back to school . i did . i major in economics .",
+        "b_sentence": "i have to walk 3 miles to work to save money everyday what do you do ?",
+        "label": ""
+    },
+    {
+        "persona": "i mostly eat a fresh and raw diet , so i save on groceries .",
+        "b_sentence": "your economic skills are amazing",
+        "label": ""
+    },
+    {
+        "persona": "thank you very much ! i'm sure you are a great nurse .",
+        "b_sentence": "i'm a ok nurse i have dripped some babies though but i'm getting better",
+        "label": ""
+    },
+    {
+        "persona": "hi how are you doing ? i am okay how about you ?",
+        "b_sentence": "i am doing good . just sipping tea . what do you do for work ?",
+        "label": ""
+    },
+    {
+        "persona": "i used to do home health aide but now i am disabled .",
+        "b_sentence": "i am sorry to hear that . what happened",
+        "label": ""
+    },
+    {
+        "persona": "i graduated and got my license worked a while and became i'll .",
+        "b_sentence": "so what do you do now for fun ? i like to read .",
+        "label": ""
+    },
+    {
+        "persona": "i have dogs and i walk them . and a cat .",
+        "b_sentence": "what kind of dogs do you have ?",
+        "label": ""
+    },
+    {
+        "persona": "i enjoy reading read about michael jackson and psychology today .",
+        "b_sentence": "i love reading . i have a big library at my house .",
+        "label": ""
+    },
+    {
+        "persona": "that's very nice i love to read to and read about journals .",
+        "b_sentence": "i've a tough time hearing so reading is my happy place .",
+        "label": ""
+    },
+    {
+        "persona": "cool that is okay . my mom was very tough on me .",
+        "b_sentence": "i work as a hearing impaired museum tour guide .",
+        "label": ""
+    },
+    {
+        "persona": "hi i dye my hair 4 times a year",
+        "b_sentence": "do you live in the sky ? i do . in the clouds .",
+        "label": ""
+    },
+    {
+        "persona": "no i do not , i've a dream , it is to work from home",
+        "b_sentence": "i make time stop . i've a superpower . i'm a super hero .",
+        "label": ""
+    },
+    {
+        "persona": "that is really cool that you can do that",
+        "b_sentence": "i love living in the clouds the best . do you have powers ?",
+        "label": ""
+    },
+    {
+        "persona": "no i don't , i faint when i see blood",
+        "b_sentence": "i don't like blood . i vomit .",
+        "label": ""
+    },
+    {
+        "persona": "i went to school to be a vet , but i didn't like it",
+        "b_sentence": "i want to be a teacher when i grow up",
+        "label": ""
+    },
+    {
+        "persona": "what is your name ? are you a male or female ?",
+        "b_sentence": "i'm a girl . i do not give out my name .",
+        "label": ""
+    },
+    {
+        "persona": "i think a teacher is to tough",
+        "b_sentence": "i like science and art .",
+        "label": ""
+    },
+    {
+        "persona": "hi ! do you like turtles ?",
+        "b_sentence": "i am much more of a cat person actually",
+        "label": ""
+    },
+    {
+        "persona": "i have a turtle his name is speedy . kitties are nice too , tho !",
+        "b_sentence": "that is an adorable name for a turtle . i have 2 cats",
+        "label": ""
+    },
+    {
+        "persona": "what are your kitties names ?",
+        "b_sentence": "snow and winter , named after my favorite season",
+        "label": ""
+    },
+    {
+        "persona": "i like that ! i go to preschool .",
+        "b_sentence": "oh you are so young !",
+        "label": ""
+    },
+    {
+        "persona": "how old are you ? i turned four on my birthday !",
+        "b_sentence": "i am an old woman . i won a gold medal in 1992",
+        "label": ""
+    },
+    {
+        "persona": "wow ! ! you won gold ! are you rich ?",
+        "b_sentence": "no . i spend all of my money on hats ! i own over a thousand",
+        "label": ""
+    },
+    {
+        "persona": "i like hats too ! but , my favorite thing to do is play with my dollies .",
+        "b_sentence": "that is great . do you have a lot ?",
+        "label": ""
+    }
+]
