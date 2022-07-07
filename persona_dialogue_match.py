@@ -197,11 +197,6 @@ with open('train_persona_dialogue.json', 'w', encoding='utf-8') as f2:
 
 
 
-
-
-
-
-  
 # Closing file
 f2.close()
 """

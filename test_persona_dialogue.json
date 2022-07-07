@@ -2,7 +2,7 @@
     {
         "persona": "i'm a nurse.",
         "b_sentence": "hey there ! i'm just taking a break from baking . whats up ?",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i surf often.",
@@ -17,12 +17,12 @@
     {
         "persona": "i love to sew.",
         "b_sentence": "oh i love the quiet . nothing better than quiet alone time for me",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i love to sew.",
         "b_sentence": "oh that sounds amazing . i love piano ! i am a waitress",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "my hobbies include reading and cycling.",
@@ -72,22 +72,22 @@
     {
         "persona": "i just graduated from high school.",
         "b_sentence": "ok i hear you . me too . that is why i just graduated , and i'm 28 . haha .",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i am a vegan and i love hummus.",
         "b_sentence": "sports are ok but i love cooking shows and cooking",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i love rollercoasters and sky diving.",
         "b_sentence": "sports are ok but i love cooking shows and cooking",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i do like watching cooking shows.",
         "b_sentence": "sports are ok but i love cooking shows and cooking",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i am a vegan and i love hummus.",
@@ -97,17 +97,17 @@
     {
         "persona": "i do like watching cooking shows.",
         "b_sentence": "i like to go skydiving or ride a rollercoaster",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i am a vegan and i love hummus.",
         "b_sentence": "i love dogs want a husky but cant have one yet",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i love rollercoasters and sky diving.",
         "b_sentence": "i love dogs want a husky but cant have one yet",
-        "label": "true"
+        "label": "false"
     },
     {
         "persona": "i'm a nurse.",
